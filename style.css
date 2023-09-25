@@ -43,14 +43,17 @@ main{
     height: 37px;
     font-size: 20px;
     font-family: 'Inter';
+    font-weight: 500;
     background-color: transparent;
-    border-color:rgb(184, 182, 182) ;
-   
+    border-color:rgb(163, 157, 157) ;
+    padding: 0 10px ;
 }
 input:focus{
     outline: none;
 }
-
+input:hover{
+    background-color: rgb(232,240,254);
+}
  button {
     width: 95%;
     height: 45px;
