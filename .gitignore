@@ -1,2 +1,8 @@
 .env
 node_modules
+controller/desktop.ini,
+config/desktop.ini,
+middleware/desktop.ini
+model/desktop.ini
+router/desktop.ini
+desktop.ini
